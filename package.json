@@ -1,0 +1,28 @@
+{
+  "name": "project1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^3.0.0",
+    "@tailwindcss/ui": "^0.1.3",
+    "autoprefixer": "^9.8.6",
+    "core-js": "^3.6.5",
+    "tailwindcss": "^1.8.10",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/custom-forms": "github:tailwindcss/custom-forms",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "postcss-cli": "^8.0.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+
+/*
+*****************************
+For form stuff
+*****************************
+*/
+/* .form-select,
+.form-radio,
+.form-checkbox {
+  @apply leading-snug text-white bg-gray-700 border-transparent shadow;
+}
+
+.form-select:focus,
+.form-radio:focus,
+.form-checkbox:focus {
+  @apply bg-gray-600 border-transparent shadow;
+}
+
+.form-radio,
+.form-checkbox {
+  @apply w-6 h-6 bg-gray-900;
+}
+.form-radio:checked,
+.form-checkbox:checked {
+  @apply bg-indigo-500;
+} */
+
+@tailwind utilities;
